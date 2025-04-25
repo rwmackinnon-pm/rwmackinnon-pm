@@ -7,7 +7,7 @@
 Guten Tag, Mein Name ist rob aber sie können mich bot
 
 
-| Rank | THING-TO-RANK |
+| Rank | Interests     |
 |-----:|---------------|
 |     1| IaC           |
 |     2| Deutsch       |
