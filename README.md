@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me
 
-<!--
-**rwmackinnon-pm/rwmackinnon-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <img alt="This is me" src=https://media.licdn.com/dms/image/v2/C5103AQEbzw6CuXxDog/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516254427471?e=1750896000&v=beta&t=OFKg_hs-IhXGpDpZz03HoSg97sxY3LaECkbKvWvGuEU>
+</picture>
 
-Here are some ideas to get you started:
+Guten Tag, Mein Name ist rob aber sie können mich bot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| IaC           |
+|     2| Deutsch       |
+|     3| Eis Hockey    |
